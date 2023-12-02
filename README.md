@@ -12,3 +12,7 @@ This App is written in Vue3 + Vite, uses SWAPI, contains an accordion component 
 
 - NodeJS version v20.5.0
 - NPM version 9.8.0
+
+## Deployment
+
+https://maiev93.github.io/accordion/
